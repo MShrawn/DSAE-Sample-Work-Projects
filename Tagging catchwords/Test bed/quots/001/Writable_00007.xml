@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<QuotVerified id="qn00007" oldid="q000007_00">
+  <biblioInfo>
+    <quotYear>
+      <year year="1822"/>
+    </quotYear>
+    <mainSrc>
+      <MonographSrc>
+        <author>W.J. Burchell</author>
+        <mgTitle>Trav.</mgTitle>
+        <volInfo>
+          <volRoman num="I"/>
+        </volInfo>
+        <page>186</page>
+      </MonographSrc>
+    </mainSrc>
+  </biblioInfo>
+  <quotText>It being then nearly dusk, the delightful fragrance of the <catchword>Avond-bloem</catchword> (evening flower), a species of <i>Ixia</i>, (<i>Hesperantha</i>), began to fill the air, and led to the discovery of the plants.</quotText>
+</QuotVerified>

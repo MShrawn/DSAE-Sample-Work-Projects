@@ -1,0 +1,3 @@
+http://stackoverflow.com/questions/10074298/how-to-check-if-two-strings-are-approximately-equal
+http://stackoverflow.com/questions/5859561/getting-the-closest-string-match/5859823#5859823
+https://en.wikipedia.org/wiki/Levenshtein_distance

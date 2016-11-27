@@ -1,0 +1,120 @@
+# This is a comment Line
+# sadly you cannot have a comment later on in a line ie comments are entire lines
+# Please structure this document as: 
+# xxxx | yyyy | verdict
+# where xxxx is source word
+#		yyyy is target word
+#		verdict is human determined (True | False)
+# eg (ignore the '#'):
+# aardvark | aardvarke | True
+# City | nation | False
+aardvark | aardvark | True
+aardvark | aardvarke | True
+aardvark | aardvaark | True
+aardvark | erdverk | True
+aardvark | aard-varké | True
+aardvark | aardvarken | True
+aardvark | aard-varken | True
+aardvark | aard-vark | True
+aardvark | french Toast | False
+aardvark | aantblom | False
+aardvark | aandblom | False
+
+aandblom | avondbloem | True
+aandblom | avond-bloom | True
+aandblom | avondbloom | True
+aandblom | avontbloem | True
+aandblom | aandbloms | True
+aandblom | aandblomme | True
+aandblom | aantblom | True
+aandblom | avont-bloem | True
+aandblom | aandblommetjie | False
+aandblom | Soccer | False
+aandblom | aardrose | False
+aandblom | aardvark | False
+
+aandblommetjie | avond-bloemetjie | True
+aandblommetjie | avondbloemetjie | True
+aandblommetjie | avondblommetje | True
+aandblommetjie | avond-bloomje | True
+aandblommetjie | avond bloomje | True
+aandblommetjie | avondbloem | False
+aandblommetjie | aandblom | False
+
+aarbossie | aarbosje | True
+aarbossie | aardvark | False
+aarbossie | aar | False
+
+aasvoel | aars-vogel | True
+aasvoel | aarsvogel | True
+aasvoel | aars vogel | True
+aasvoel | aas-vogel | True
+aasvoel | aasvogel | True
+aasvoel | asphogel | True
+aasvoel | asse-vogel | True
+aasvoel | aasvoël | True
+aasvoel | astvogel | True
+aasvoel | aardvark | False
+aasvoel | aandblom | False
+aasvoel | assagai | False
+
+abakwetha | abakwethas | True
+abakwetha | amakweta | True
+abakwetha | amaquati | True
+abakwetha | amaqueta | True
+abakwetha | magwetha | True
+abakwetha | makweta | True
+abakwetha | maqueta | True
+abakwetha | abakweta | True
+abakwetha | bakweta | True
+abakwetha | mkhwetha | True
+abakwetha | mkweta | True
+abakwetha | umkwetha | True
+abakwetha | kwethas | True
+abakwetha | Abbababwwaba | False
+abakwetha | Wrong | False
+abakwetha | Abbaetha | False
+abakwetha | kwenta | False
+
+Afrikander | Africanda | True
+Afrikander | Africander | True
+Afrikander | Afrikaander | True
+Afrikander | Afrikander | True
+Afrikander | Afrikaner | True
+Afrikander | Afrikaans | False
+Afrikander | Africa | False
+Afrikander | African | False
+
+agretjie | agrietjie | True
+agretjie | aigretje | True
+agretjie | aigrettje | True
+agretjie | aarbosje | False
+agretjie | agre | False
+
+ACF | A.C.F | True
+ACF | A.CF | False
+ACF | AAC | False
+
+agtdaegeneesbos | agt-dag-geneesbos | True
+agtdaegeneesbos | agtdaggeneesbos | True
+agtdaegeneesbos | agt dag geneesbos | True
+agtdaegeneesbos | achtdag-geneesbos | True
+agtdaegeneesbos | achtdaggeneesbos | True
+agtdaegeneesbos | Random Very Wrong Word | False
+agtdaegeneesbos | aggetdegneerbos | False
+
+moegoe | moego | True
+moegoe | moggoe | True
+moegoe | mogo | True
+moegoe | mugu | True
+moegoe | moegoes | True
+moegoe | megan | False
+moegoe | mover | False
+moegoe | modem | False
+
+Hat | Hats | True
+hat | hat's | True
+hat | hoed | True
+Hat | Cat | False
+hat | sit | False
+hat | hit | False

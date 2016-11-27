@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<QuotVerified id="qn00014" oldid="q000015_00">
+  <biblioInfo>
+    <quotYear>
+      <year year="1932"/>
+    </quotYear>
+    <mainSrc>
+      <SerialSrc>
+        <srTitle>Grocott’s Daily Mail</srTitle>
+        <srDate>
+          <day day="9"/>
+          <month month="Jan."/>
+        </srDate>
+        <page>3/6</page>
+      </SerialSrc>
+    </mainSrc>
+  </biblioInfo>
+  <quotText>The flowers which form the subject of these delightful fantasies are Flames, Morning Flowers, <catchword>Aandbloem</catchword> <edInsertion>etc.</edInsertion>.</quotText>
+</QuotVerified>

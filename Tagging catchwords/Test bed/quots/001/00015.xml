@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?syntext-serna load-plugins+="LinkVoyager"?><?syntext-serna xml-stylesheet="../../../system/stylesheets/dhist_QuotVerificationInstance.xsl"?><?syntext-serna xml-schema="../../../system/schemas/dhist_QuotVerificationInstance.xsd"?><QuotVerificationInstance xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="qvi00015" xsi:noNamespaceSchemaLocation="../../../system/schemas/dhist_QuotVerificationInstance.xsd" parentHeadword="aandblom" lastSaved="2007-10-12" sourceVerifiedBy="Tracy_Nicol" verificationCapturedBy="Liza_van_Soelen" captureVerifiedBy="Tracy_Nicol">
+  <Annotations/>
+  <Queries/>
+  <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Writable_00015.xml"/>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="ReadOnly_00015.xml"/>
+</QuotVerificationInstance>

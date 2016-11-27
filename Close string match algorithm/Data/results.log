@@ -1,0 +1,239 @@
+Source:     aardvark
+Target:     erdverk
+Predicted:  False
+Correct:    True
+Confidence: 62.50%
+================================================================================
+Source:     aardvark
+Target:     aard-varké
+Predicted:  False
+Correct:    True
+Confidence: 75.00%
+================================================================================
+Source:     aardvark
+Target:     aardvarken
+Predicted:  False
+Correct:    True
+Confidence: 75.00%
+================================================================================
+Source:     aardvark
+Target:     aard-varken
+Predicted:  False
+Correct:    True
+Confidence: 62.50%
+================================================================================
+Source:     aandblom
+Target:     avondbloem
+Predicted:  False
+Correct:    True
+Confidence: 62.50%
+================================================================================
+Source:     aandblom
+Target:     avond-bloom
+Predicted:  False
+Correct:    True
+Confidence: 50.00%
+================================================================================
+Source:     aandblom
+Target:     avondbloom
+Predicted:  False
+Correct:    True
+Confidence: 62.50%
+================================================================================
+Source:     aandblom
+Target:     avontbloem
+Predicted:  False
+Correct:    True
+Confidence: 50.00%
+================================================================================
+Source:     aandblom
+Target:     aandblomme
+Predicted:  False
+Correct:    True
+Confidence: 75.00%
+================================================================================
+Source:     aandblom
+Target:     avont-bloem
+Predicted:  False
+Correct:    True
+Confidence: 37.50%
+================================================================================
+Source:     aandblommetjie
+Target:     avond-bloemetjie
+Predicted:  False
+Correct:    True
+Confidence: 71.43%
+================================================================================
+Source:     aandblommetjie
+Target:     avond-bloomje
+Predicted:  False
+Correct:    True
+Confidence: 50.00%
+================================================================================
+Source:     aandblommetjie
+Target:     avond bloomje
+Predicted:  False
+Correct:    True
+Confidence: 50.00%
+================================================================================
+Source:     aasvoel
+Target:     aars-vogel
+Predicted:  False
+Correct:    True
+Confidence: 57.14%
+================================================================================
+Source:     aasvoel
+Target:     aarsvogel
+Predicted:  False
+Correct:    True
+Confidence: 71.43%
+================================================================================
+Source:     aasvoel
+Target:     aars vogel
+Predicted:  False
+Correct:    True
+Confidence: 57.14%
+================================================================================
+Source:     aasvoel
+Target:     aas-vogel
+Predicted:  False
+Correct:    True
+Confidence: 71.43%
+================================================================================
+Source:     aasvoel
+Target:     asphogel
+Predicted:  False
+Correct:    True
+Confidence: 42.86%
+================================================================================
+Source:     aasvoel
+Target:     asse-vogel
+Predicted:  False
+Correct:    True
+Confidence: 42.86%
+================================================================================
+Source:     aasvoel
+Target:     astvogel
+Predicted:  False
+Correct:    True
+Confidence: 57.14%
+================================================================================
+Source:     abakwetha
+Target:     amaquati
+Predicted:  False
+Correct:    True
+Confidence: 33.33%
+================================================================================
+Source:     abakwetha
+Target:     amaqueta
+Predicted:  False
+Correct:    True
+Confidence: 55.56%
+================================================================================
+Source:     abakwetha
+Target:     magwetha
+Predicted:  False
+Correct:    True
+Confidence: 66.67%
+================================================================================
+Source:     abakwetha
+Target:     makweta
+Predicted:  False
+Correct:    True
+Confidence: 66.67%
+================================================================================
+Source:     abakwetha
+Target:     maqueta
+Predicted:  False
+Correct:    True
+Confidence: 44.44%
+================================================================================
+Source:     abakwetha
+Target:     mkhwetha
+Predicted:  False
+Correct:    True
+Confidence: 55.56%
+================================================================================
+Source:     abakwetha
+Target:     mkweta
+Predicted:  False
+Correct:    True
+Confidence: 55.56%
+================================================================================
+Source:     abakwetha
+Target:     umkwetha
+Predicted:  False
+Correct:    True
+Confidence: 66.67%
+================================================================================
+Source:     abakwetha
+Target:     kwethas
+Predicted:  False
+Correct:    True
+Confidence: 55.56%
+================================================================================
+Source:     Afrikander
+Target:     Africanda
+Predicted:  False
+Correct:    True
+Confidence: 70.00%
+================================================================================
+Source:     agretjie
+Target:     aigretje
+Predicted:  False
+Correct:    True
+Confidence: 75.00%
+================================================================================
+Source:     agretjie
+Target:     aigrettje
+Predicted:  False
+Correct:    True
+Confidence: 62.50%
+================================================================================
+Source:     ACF
+Target:     A.C.F
+Predicted:  False
+Correct:    True
+Confidence: 33.33%
+================================================================================
+Source:     agtdaegeneesbos
+Target:     achtdag-geneesbos
+Predicted:  False
+Correct:    True
+Confidence: 73.33%
+================================================================================
+Source:     moegoe
+Target:     mogo
+Predicted:  False
+Correct:    True
+Confidence: 66.67%
+================================================================================
+Source:     moegoe
+Target:     mugu
+Predicted:  False
+Correct:    True
+Confidence: 33.33%
+================================================================================
+Source:     Hat
+Target:     Hats
+Predicted:  False
+Correct:    True
+Confidence: 66.67%
+================================================================================
+Source:     hat
+Target:     hat's
+Predicted:  False
+Correct:    True
+Confidence: 33.33%
+================================================================================
+Source:     hat
+Target:     hoed
+Predicted:  False
+Correct:    True
+Confidence:  0.00%
+================================================================================
+Below is an extracted list of all the false positives along with the supposed confidence.
+Wonderfull, there are No false Positives.
+================================================================================
+In Conclusion; out of 99 test cases we got 60.0 Correct.
+This equates to a: 60.61% success rate

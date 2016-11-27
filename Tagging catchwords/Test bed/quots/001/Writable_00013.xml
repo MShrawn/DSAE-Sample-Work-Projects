@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<QuotVerified id="qn00013" oldid="q000014_00">
+  <biblioInfo>
+    <quotYear>
+      <year year="1890"/>
+    </quotYear>
+    <mainSrc>
+      <MonographSrc>
+        <author>A. Martin</author>
+        <mgTitle>Home Life</mgTitle>
+        <page>21</page>
+      </MonographSrc>
+    </mainSrc>
+  </biblioInfo>
+  <quotText>Another of our favourites was the <catchword>
+      <i>aantblom</i>
+    </catchword><ellip num="2"/>whose lovely flowers range through all possible shades of rose-colour and orange, from the deepest to the palest tints of pink and yellow, down to the purest white.</quotText>
+</QuotVerified>
